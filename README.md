@@ -1,9 +1,11 @@
 # BioRAM
 BioSafety and BioSecurity Laboratory Risk Assessment Tool
 
+See the BioRAM UserGuide SAND for details on the methods used in the tool and examples.  
+
 You can use either the excel version or the Java versions.  
 
-For the excel, the BioRAM-2022 (BioRisk) file is the newest and joins the safety and security assessment into a single assessment tool. 
+For the excel, the BioRAM-2022 (BioRisk) file is the newest (still in beta) and joins the safety and security assessment into a single assessment tool. 
 
 (The monkey pox files include an example biorisk assessment of a laboratory conducting diagnostics on monkey pox.)
 
